@@ -1,5 +1,5 @@
 variable "prefix" {
-  default = "chappp"
+  default = "wazzle"
 }
   
   provider "azurerm" {
