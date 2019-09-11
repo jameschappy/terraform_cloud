@@ -1,5 +1,5 @@
 variable "prefix" {
-  default = "chapo"
+  default = "terrachap"
 }
   
   provider "azurerm" {
