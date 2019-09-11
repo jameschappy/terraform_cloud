@@ -1,5 +1,5 @@
 variable "prefix" {
-  default = "terrachap"
+  default = "chappp"
 }
   
   provider "azurerm" {
